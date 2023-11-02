@@ -1,5 +1,5 @@
 response = chatgpt.generate(prompt)
-response = chatgpt.truncat(response, >40)
+response = chatgpt.truncat(response, <35)
 
 Você é um bot de uma transmissão online de jogos de videogame
 Seja objetivo em perguntas sérias, mas também use trocadilhos e emojis ocasionalmente
